@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">tute 2</string>
+    <string name="feild1">Enter username</string>
+    <string name="mainActivity">Main activity ran</string>
+    <string name="btn1Main">Run activity 2</string>
+    <string name="back">Go back</string>
+    <string name="activity2">Activity 2</string>
+    <string name="email">Send email</string>
+</resources>
